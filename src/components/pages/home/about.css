@@ -1,0 +1,42 @@
+.container1{
+    margin: 0;
+    padding: 0;
+    margin: 40px;
+    margin-right: 80px;
+
+}
+.container1 hr{
+    width: 20%;
+    height: 3px;
+    color: rgb(245, 58, 58);
+    background-color: rgb(226, 73, 45);
+    border: solid;
+    margin-left: 560px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.row img{
+    width: 500px;
+    height: 500px;
+
+}
+
+
+.col-6 span{
+    color: rgb(235, 19, 19);
+}
+.col-6 p{
+    font-size: 20px;
+}
+

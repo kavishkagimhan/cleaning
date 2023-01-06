@@ -1,0 +1,32 @@
+.row2{
+    background-color: rgb(240, 240, 237);
+
+   
+}
+.row .img{
+    width: 75%;
+    height: 75%;
+}
+
+
+  .container hr{
+    width: 20%;
+    height: 3px;
+    color: rgb(245, 58, 58);
+    background-color: rgb(226, 73, 45);
+    border: solid;
+    margin-left: 450px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
